@@ -1,0 +1,12 @@
+/workspaces/Lab-4/Lab4.Domain/bin/Debug/net8.0/Lab4.Domain.deps.json
+/workspaces/Lab-4/Lab4.Domain/bin/Debug/net8.0/Lab4.Domain.dll
+/workspaces/Lab-4/Lab4.Domain/bin/Debug/net8.0/Lab4.Domain.pdb
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.AssemblyInfoInputs.cache
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.AssemblyInfo.cs
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.csproj.CoreCompileInputs.cache
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.sourcelink.json
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.dll
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/refint/Lab4.Domain.dll
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/Lab4.Domain.pdb
+/workspaces/Lab-4/Lab4.Domain/obj/Debug/net8.0/ref/Lab4.Domain.dll
